@@ -3,7 +3,7 @@ Worlds 1922a10 (found here: https://files.worlio.com/files/WorldsPlayer/software
 Ghidra https://github.com/NationalSecurityAgency/ghidra/releases (or any other Decompiler if you know what to do :) such as but not limited to: BinaryNinja, IDA64, ...)
 HxD https://mh-nexus.de/en/hxd (or any other Hex Editor if you know what you're doing!)
 # I don't wanna do it manually and totally trust your patched .DLL from the interwebs!
-· Firstly thanks of all, I dont mean any harm, the already patched .DLL should be found here: URL
+· Firstly thanks of all, I dont mean any harm, the already patched .DLL should be found here: https://github.com/Wurscht1/WorldsPlayer-Forced-3D-Accelerator/releases/tag/main
 # Instruction
 · First of all duplicate WorldsRenderer.dll (found in the root of your WorldsPlayer installation) and name it something like WorldsRenderer2.dll
 · open up "WorldsRenderer2.dll" with your Hex editor of your liking, in my case HxD 
